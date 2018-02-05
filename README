@@ -1,0 +1,2 @@
+"""this function calculate the total number of upper and lower case letters by
+    using their ASCII values depending upon the specified range"""
